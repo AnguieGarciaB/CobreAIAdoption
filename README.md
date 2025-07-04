@@ -79,7 +79,7 @@
   - Negative → `2`
 
 - **Objection Presence:**  
-  Yes = Barrier, No = Opportunity
+  Yes = Questions, No = Disinterest
 
 - **Urgency & Decision Clarity:**  
   Clear timeline = High Priority
