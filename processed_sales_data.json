@@ -1,0 +1,318 @@
+[
+  {
+    "cliente": "Cartama",
+    "sentimiento": "Positivo",
+    "pain_points": [
+      "05",
+      "02",
+      "03",
+      "06",
+      "08"
+    ],
+    "tiempo_decision": "No se explicita un tiempo definido para la toma de decisión.",
+    "sugerencias": "Ofrecer una solución de centralización de operaciones, Proporcionar opciones de seguridad mejoradas para las transacciones.",
+    "objeciones": "Ninguna",
+    "tomador_decision": "Patricia",
+    "prediccion_exito": 4,
+    "bancos_actuales": [
+      "BBVA",
+      "Davivienda",
+      "Bancolombia",
+      "Banco de Bogotá"
+    ],
+    "tecnologias": [
+      "ERP"
+    ],
+    "productos_interes": [
+      "pagos locales",
+      "connect",
+      "pagos internacionales inmediatos"
+    ],
+    "desempeno": 5,
+    "industria": "Fintech"
+  },
+  {
+    "cliente": "Cobre",
+    "sentimiento": "Positivo",
+    "pain_points": [
+      "02",
+      "01",
+      "04",
+      "05"
+    ],
+    "tiempo_decision": "Esta semana.",
+    "sugerencias": "Aclarar la propuesta de valor inicial, Manejo de objeciones en tiempo real",
+    "objeciones": "El cliente necesita pagar directamente a sus proveedores en Estados Unidos, pero Cobre solo permite pagos a terceros en México, Colombia y Perú.",
+    "tomador_decision": "Jingyan Wu",
+    "prediccion_exito": 4,
+    "bancos_actuales": [
+      "Bancomer",
+      "STP",
+      "ASP STP"
+    ],
+    "tecnologias": [
+      "Radian",
+      "MC",
+      "Mu"
+    ],
+    "productos_interes": [
+      "Pagos en dólares",
+      "Pagos en yuanes",
+      "Recaudo a cuentas clave",
+      "Pagos transfronterizos"
+    ],
+    "desempeno": 8,
+    "industria": "Finanzas"
+  },
+  {
+    "cliente": "Toku",
+    "sentimiento": "Neutral",
+    "pain_points": [
+      "02",
+      "01",
+      "03",
+      "08",
+      "13"
+    ],
+    "tiempo_decision": "No definido",
+    "sugerencias": "Explorar soluciones que permitan a los clientes finales realizar pagos directamente, Ofrecer alternativas para el seguimiento y conciliación de transferencias individuales.",
+    "objeciones": "Necesitan un partner que les ayude a recibir transferencias en moneda extranjera directamente de terceros, El cliente necesita que los comprobantes de pago estén a nombre del cliente final.",
+    "tomador_decision": "Max Bortnic",
+    "prediccion_exito": 2,
+    "bancos_actuales": [
+      "Santander"
+    ],
+    "tecnologias": [
+      "ERP",
+      "CRM"
+    ],
+    "productos_interes": [],
+    "desempeno": 7,
+    "industria": "Gestión de Pagos"
+  },
+  {
+    "cliente": "Cobre",
+    "sentimiento": "Positivo",
+    "pain_points": [
+      "02",
+      "09"
+    ],
+    "tiempo_decision": "No definido",
+    "sugerencias": "Profundizar en las necesidades del cliente, Resaltar los beneficios específicos de Cobre",
+    "objeciones": "La ejecutiva de Cobre no es quien toma las decisiones sobre qué servicios contratar, necesita que Rail sea cliente de Cobre.",
+    "tomador_decision": "Sasha",
+    "prediccion_exito": 4,
+    "bancos_actuales": [],
+    "tecnologias": [],
+    "productos_interes": [
+      "US bank accounts",
+      "Pesos payouts",
+      "Same day settlement in China using USD"
+    ],
+    "desempeno": 7,
+    "industria": "Finanzas"
+  },
+  {
+    "cliente": "Blockchain.com",
+    "sentimiento": "Positivo",
+    "pain_points": [
+      "01",
+      "02",
+      "03",
+      "08"
+    ],
+    "tiempo_decision": "El cliente espera recibir la propuesta comercial con el pricing a más tardar el jueves (26 de junio de 2025).",
+    "sugerencias": "Ofrecer una propuesta comercial preliminar con un rango de precios estimado, Analizar la posibilidad de ofrecer un spread diferencial para operaciones de alto volumen.",
+    "objeciones": "* Necesita saber el **precio por adelantado** antes de realizar el onboarding y compartir información sensible de la empresa, pero no está seguro de si la información que recibirá le permitirá saber si vale la pena o no compartir información sensible de sus sociedades. * Si requiere completar el onboarding, pregunta si puede abrir una **cuenta como persona natural** extranjera, pero Alejandro le indica que debe ser B2B. * Si el precio que le brindan a él es el **mismo que al minorista**, no funcionará, pero necesita un spread para jugar con las puntas.",
+    "tomador_decision": "Director de institucional",
+    "prediccion_exito": 4,
+    "bancos_actuales": [],
+    "tecnologias": [
+      "Blockchain.com"
+    ],
+    "productos_interes": [
+      "COP a USDT",
+      "Soluciones de pago",
+      "Pains",
+      "Pagos",
+      "Through border payments"
+    ],
+    "desempeno": 5,
+    "industria": "Fintech"
+  },
+  {
+    "cliente": "Alejandro Eleganza Shop",
+    "sentimiento": "Muy Positivo",
+    "pain_points": [
+      "03",
+      "08",
+      "09",
+      "10"
+    ],
+    "tiempo_decision": "Este mismo mes.",
+    "sugerencias": "Implementar un sistema de conciliación automatizado, Ofrecer una solución de gestión de suscripciones más eficiente.",
+    "objeciones": "El tiempo de llegada del dinero desde el banco de Cobre a su cuenta es demasiado largo, Necesita saber cómo referenciar cada pago a una persona específica si utiliza un link por curso, Necesita entender la estructura de costos del servicio PSE, Quiere saber si hay beneficios en costos y tiempo en las transacciones internacionales en comparación con su banco actual, Tiene un problema con las suscripciones mensuales con su pasarela actual debido a rechazos de tarjetas y problemas de verificación.",
+    "tomador_decision": "Alejandro Sanchez",
+    "prediccion_exito": 4,
+    "bancos_actuales": [
+      "Banco de Bogotá",
+      "Bancolombia",
+      "Vivienda"
+    ],
+    "tecnologias": [
+      "Q10"
+    ],
+    "productos_interes": [
+      "Local Payments",
+      "Cobre Connect",
+      "Pagos internacionales acelerados"
+    ],
+    "desempeno": 8,
+    "industria": "Educación"
+  },
+  {
+    "cliente": "Monelik",
+    "sentimiento": "Neutral",
+    "pain_points": [
+      "02",
+      "07",
+      "09"
+    ],
+    "tiempo_decision": "No en este año.",
+    "sugerencias": "Explorar asociaciones estratégicas para expandir la oferta de servicios en LATAM, Investigar sobre las necesidades específicas de Monelik en el manejo de pagos en América Latina.",
+    "objeciones": "Latin America is not a priority for them this year.",
+    "tomador_decision": "Jevgenijs",
+    "prediccion_exito": 2,
+    "bancos_actuales": [
+      "Banking Circle"
+    ],
+    "tecnologias": [
+      "Internet banking solution",
+      "Open banking solution",
+      "Payment gateway",
+      "Processing center"
+    ],
+    "productos_interes": [
+      "Payouts in Colombia",
+      "Payouts in Mexico"
+    ],
+    "desempeno": 7,
+    "industria": "Fintech"
+  },
+  {
+    "cliente": "dinastiacol sas",
+    "sentimiento": "Negativo",
+    "pain_points": [
+      "02",
+      "03",
+      "07",
+      "08",
+      "09"
+    ],
+    "tiempo_decision": "6 meses a 1 año.",
+    "sugerencias": "Ofrecer recursos sobre cumplimiento normativo para empresas que manejan criptomonedas en Colombia, Mantener el contacto para otros temas relacionados con la gestión de tesorería o las regulaciones en el sector.",
+    "objeciones": "Cobre no procesa directamente pagos en USDT de clientes individuales, Desconocimiento del motivo del bloqueo en DólarApp, Cobre solo trabaja con empresas constituidas con al menos un año de antigüedad.",
+    "tomador_decision": "Admin Admin",
+    "prediccion_exito": 2,
+    "bancos_actuales": [],
+    "tecnologias": [
+      "Telegram",
+      "WhatsApp",
+      "dólar app"
+    ],
+    "productos_interes": [
+      "Pagos en dólares",
+      "USDT",
+      "Netflix",
+      "Spotify",
+      "Diamantes de Juego"
+    ],
+    "desempeno": 7,
+    "industria": "Venta de productos digitales"
+  },
+  {
+    "cliente": "paydex",
+    "sentimiento": "Positivo",
+    "pain_points": [
+      "11",
+      "03",
+      "06",
+      "09"
+    ],
+    "tiempo_decision": "A mediados de la próxima semana.",
+    "sugerencias": "Profundiza en las necesidades del cliente, Ofrece ejemplos de éxito de otros clientes.",
+    "objeciones": "La cotización y confirmación de la transacción a través de Slack y WhatsApp podría ser una fricción en el proceso, Duda sobre la capacidad de la API para cierres.",
+    "tomador_decision": "Juan C. Pryor",
+    "prediccion_exito": 4,
+    "bancos_actuales": [],
+    "tecnologias": [
+      "Slack",
+      "WhatsApp"
+    ],
+    "productos_interes": [
+      "API para pagos hacia afuera",
+      "API de settlement",
+      "offmarket 24/7",
+      "Pagos en stablecoins",
+      "Dispersión en Estados Unidos"
+    ],
+    "desempeno": 7,
+    "industria": "Floricultura"
+  },
+  {
+    "cliente": "Orinex",
+    "sentimiento": "Positivo",
+    "pain_points": [
+      "09",
+      "01",
+      "02",
+      "03",
+      "05"
+    ],
+    "tiempo_decision": "No se explicita un tiempo de decisión en la conversación.",
+    "sugerencias": "Explorar una oferta comercial personalizada, Resaltar la eficiencia de la solución Fast Pay.",
+    "objeciones": "Percepción negativa previa sobre Cobre, Costo del SAAS considerado alto, Spread inicial superior al actual, Necesidad de pagar el SAAS incluso si no alcanzan el mínimo de payouts.",
+    "tomador_decision": "Sebastian Villanueva y Sebastian Bustamante.",
+    "prediccion_exito": 3,
+    "bancos_actuales": [
+      "Bancolombia",
+      "Nequi",
+      "Daviplata",
+      "Davivienda",
+      "BBVA",
+      "Scotiabank",
+      "Colpatria",
+      "Grupo Aval"
+    ],
+    "tecnologias": [],
+    "productos_interes": [
+      "Pagos cross border",
+      "Integración vía API",
+      "Dispersión a terceros",
+      "Fast pay"
+    ],
+    "desempeno": 8,
+    "industria": "Fintech"
+  },
+  {
+    "cliente": "Flor del Capiro",
+    "sentimiento": "Neutral",
+    "pain_points": [
+      "04",
+      "07"
+    ],
+    "tiempo_decision": "No hay información suficiente",
+    "sugerencias": "Profundizar en las necesidades del cliente, Resaltar el valor específico de Cobre",
+    "objeciones": "Falta de asistencia de las personas clave, Necesidad de reagendar",
+    "tomador_decision": "Gerencia financiera y encargada de tesorería",
+    "prediccion_exito": 3,
+    "bancos_actuales": [],
+    "tecnologias": [],
+    "productos_interes": [
+      "Soluciones para simplificar y acelerar el movimiento de dinero",
+      "Optimizar los procesos financieros"
+    ],
+    "desempeno": 7,
+    "industria": "Agrícola"
+  }
+]
