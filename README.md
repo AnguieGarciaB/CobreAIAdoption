@@ -112,3 +112,6 @@ This analysis allows for:
 > 🔁 _Next steps_: Feed this dataset into the CRM, align SDRs on scoring logic, and schedule enablement sessions for objection handling and value messaging.
 
 ---
+
+> **Note:** This analysis was conducted using **Google Colab** since access to key external tools like **Hugging Face** and **Snowflake** was blocked in Cursor.
+
