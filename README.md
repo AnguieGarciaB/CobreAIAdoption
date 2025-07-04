@@ -1,5 +1,3 @@
-# CobreAIAdoption
-
 # 🚀 FULL SALES ANALYSIS FOR CUSTOMER ATTRACTION  
 **Project Title:** _Pain to Gain: Cracking the Customer Code_  
 
